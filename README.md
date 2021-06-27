@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/zwuk0/faq-accordion-card-main](https://github.com/zwuk0/faq-accordion-card-main)
+- Live Site URL: [https://zwuk0.github.io/faq-accordion-card-main/](https://zwuk0.github.io/faq-accordion-card-main/)
 
 ## My process
 
@@ -43,5 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@zwuk0](https://www.frontendmentor.io/profile/zwuk0)
